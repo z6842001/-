@@ -1,0 +1,14 @@
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\bin\Debug\最新_守塔_Controler.dll
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\bin\Debug\最新_守塔_Controler.pdb
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\bin\Debug\最新_守塔_Model.dll
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\bin\Debug\最新_守塔_Model.pdb
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\obj\Debug\最新_守塔_Controler.csprojAssemblyReference.cache
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\obj\Debug\最新_守塔_Controler.Properties.Resources.resources
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\obj\Debug\最新_守塔_Controler.csproj.GenerateResource.cache
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\obj\Debug\最新_守塔_Controler.csproj.CoreCompileInputs.cache
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\obj\Debug\最新_守塔_Controler.csproj.CopyComplete
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\obj\Debug\最新_守塔_Controler.dll
+c:\Users\ken\source\repos\守塔\最新_守塔_Controler\obj\Debug\最新_守塔_Controler.pdb
+C:\Users\ken\source\repos\守塔\最新_守塔_Controler\bin\Debug\最新_守塔_Other.dll
+C:\Users\ken\source\repos\守塔\最新_守塔_Controler\bin\Debug\最新_守塔_Other.pdb
+C:\Users\ken\source\repos\守塔\最新_守塔_Controler\obj\Debug\最新_守塔_Controler.test.resources
