@@ -1,0 +1,6 @@
+C:\Users\ken\source\repos\守塔\最新_守塔_Other\obj\Debug\最新_守塔_Other.csprojAssemblyReference.cache
+C:\Users\ken\source\repos\守塔\最新_守塔_Other\obj\Debug\最新_守塔_Other.csproj.CoreCompileInputs.cache
+C:\Users\ken\source\repos\守塔\最新_守塔_Other\bin\Debug\最新_守塔_Other.dll
+C:\Users\ken\source\repos\守塔\最新_守塔_Other\bin\Debug\最新_守塔_Other.pdb
+C:\Users\ken\source\repos\守塔\最新_守塔_Other\obj\Debug\最新_守塔_Other.dll
+C:\Users\ken\source\repos\守塔\最新_守塔_Other\obj\Debug\最新_守塔_Other.pdb
